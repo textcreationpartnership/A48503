@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Lillies late prophecy come to pass Concerning the present vvar, and the late unseasonableness of the weather. Wherein it is made manifest, whatsoever he has prognosticated of the present year, 1673. Is in great probability of proving true, from the events that have already been observed. Licensed, according to order, Iuly 10. 1673.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48503</idno>
+            <idno type="STC">Wing L2225</idno>
+            <idno type="STC">ESTC R216696</idno>
+            <idno type="EEBO-CITATION">99828418</idno>
+            <idno type="PROQUEST">99828418</idno>
+            <idno type="VID">32845</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48503)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32845)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1913:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Lillies late prophecy come to pass Concerning the present vvar, and the late unseasonableness of the weather. Wherein it is made manifest, whatsoever he has prognosticated of the present year, 1673. Is in great probability of proving true, from the events that have already been observed. Licensed, according to order, Iuly 10. 1673.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Purslow,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title page woodcut.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Predictive astrology --  Early works to 1800.</term>
+               <term>Weather forecasting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32845:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 89 -->
+            <p>M<hi rend="sup">r.</hi> LILLIES LATE Prophecy come to paſs.</p>
+            <p>Concerning the preſent VVar, and the late Unſeaſonableneſs of the weather.</p>
+            <p>Wherein it is made Manifeſt, whatſoever he has Prognoſticated of the PRESENT YEAR, 1673.</p>
+            <p>Is in Great Probability of Proving True, from the Events that have already been Obſerved.</p>
+            <p>Licenſed, According to Order, <hi>Iuly</hi> 10. 1673.</p>
+            <figure/>
+            <figure/>
+            <p>Printed by <hi>A. Purſlow,</hi> 1673.</p>
+            <pb facs="tcp:32845:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 90 -->
+            <pb facs="tcp:32845:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 90 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32845:3"/>
+            <!-- PDF PAGE 91 -->
+            <pb n="3" facs="tcp:32845:3"/>
+            <!-- PDF PAGE 91 -->
+            <head>M<hi rend="sup">r.</hi> LILLIES LATE PROPHECY Come to Paſs.</head>
+            <p>I Hope there is no Engliſh-man ſo diſingenious as not to be ſenſible how much our Nation hath been obliged to the Ju<g ref="char:EOLhyphen"/>dicious and deſervedly Famous Mr. <hi>Lilly,</hi> for his Reſtaura<g ref="char:EOLhyphen"/>tion of Aſtrology wherein he manifeſts himſelf, not only an Accompliſhed Artiſt, but alſo an Ingenious Lover, and Well-wiſher
+<pb n="4" facs="tcp:32845:4"/>
+               <!-- PDF PAGE 92 -->
+of his Country; Every year would afford irrefragable Ar<g ref="char:EOLhyphen"/>guments to the Conviction of any that ſhould prove ſo obſti<g ref="char:EOLhyphen"/>nately <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or ſo careleſly unmindful to forget this <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>However, Since Supineſs is a fault too commonly obſerved in our Nation, I conceive it proper to refreſh the memories of thoſe who are guilty in this kind, with an accompt of what Commets h<gap reason="illegible: bleedthrough" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> VVhat Predictions the <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vpon them and what ſtrange Events and Succeſſes have followed as witneſſes of his Prophetick judgement.</p>
+            <p>AMongſt oth<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r h<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> now <gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rified Predictions on that Commet ſeen in 16<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2. <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ac<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uaint<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the I<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ha<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tants of <hi>Europe,</hi> that they might again expect to behold a New Blazing Star about the Year 1672. in which only I inſtance, becauſe it being the laſt, is I ſup<g ref="char:EOLhyphen"/>poſe the freſheſt in our memories, and therefore moſt ſuitable to my preſent Deſign.</p>
+            <p>Nor was this Famous man miſtaken, though he Propheſied of ſo dubi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us a matter <gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nty yea<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beforehand for accordingly a Commet did manifeſt it ſelf, and for many Nights <gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>the<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was viſible in our Horizon. Nor was thi<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a framed Stor<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, t<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Varni<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h any deſign, neither was it the miſtake of a Paper-kite, <hi>ignis fatuus,</hi> or falſe <hi>Phoenemenon,</hi> but a true and real Commet, as is evidenced by the Teſtimony of divers Worthy perſons, more then Ordinary Skilful, and curiouſly a<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quainted with ſuch matters.</p>
+            <p>Firſt, Mounſier <hi>Hevilius,</hi> a perſon ſufficiently known to the Learned VVorld, atteſts it in a Letter from <hi>Dantziel,</hi> to that Il<g ref="char:EOLhyphen"/>luſtrious Society here in <hi>England,</hi> deſervedly Entituled Royal, his VVords are theſe.</p>
+            <p>
+               <hi>There is with us,</hi> (ſaith he) <hi>a New Commet viſible both Mor<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ings and Evenings, it ſeems at preſent but little having <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> tail or train not above a degree and is half long, but it would <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:32845:4"/>
+                  <!-- PDF PAGE 92 -->
+appear much bigger, if it were not for the Troy-light and Neighbour<g ref="char:EOLhyphen"/>hood of the Moon: it is now about the Stars in the Right arm of</hi> Andro<g ref="char:EOLhyphen"/>meda, <hi>tending with a direct Diurnal Motion of about two degrees in it's courſe,</hi> March <hi>the</hi> 6th. 40 <hi>minutes after</hi> 7 <hi>it was in ſeven degrees of Aries, with</hi> 25 <hi>degrees of North Latitude, &amp;c.</hi>
+            </p>
+            <p>The ſame was atteſted alſo from <hi>Paris</hi> in ſeveral Letters; and at <hi>Fl<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible: bleedthrough" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e,</hi> from the 16th. of <hi>March</hi> to the 2<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th. ſucceſſively. But the reaſon why it was ſo careleſly obſerved, was becauſe for a good while it was neer the Sun, and afterwards obſcured by the Moon.</p>
+            <p>But I muſt bring the matter nearer home, and give you an ac<g ref="char:EOLhyphen"/>compt of eſpecially two Engliſh Obſervatours, who have ſuffi<g ref="char:EOLhyphen"/>ciently witneſſed what they plainly ſaw, and what they rationally judged would be the ſequel of thoſe Celeſtial Heralds.</p>
+            <p>March the 7th. about Eight of the Clock at Night, it was ob<g ref="char:EOLhyphen"/>ſerved by an Ingenious Gentleman in <hi>Hampſhire,</hi> who communica<g ref="char:EOLhyphen"/>ted his Obſervations to Mr. <hi>Lilly.</hi> 
+               <q>It was then (writes he) about the bigneſs of a Star of the third Magnitude, ſolid, but of a Saturnine or Leaden Complexion, its tayl very Conſpicuous, but tending Eaſtward; its firſt appearance to me was about the mid<g ref="char:EOLhyphen"/>dle of Aries, whence by careful Obſervations I traced it through Taurus, till on the twenty firſt it drew near the begining of Gemini, but then it ſeemed very ſmall, its motion more ſlow than formerly, and the Moon increaſing, it ſoon after diſ<g ref="char:EOLhyphen"/>appeared.</q>
+            </p>
+            <p>Mr. <hi>Lilly</hi> likewiſe himſelf, obſerved it for ſeveral nights to<g ref="char:EOLhyphen"/>gether, to whom it ſeemed bigger then a Star of the ſecond Mag<g ref="char:EOLhyphen"/>nitude, and of a Saturnine, and Mercurial Complection; who, after the ſtricteſt Obſervations, he could make of its Magnitude, Scituation, and Pointing, he gives this accompt of it.</p>
+            <p>
+               <pb n="6" facs="tcp:32845:5"/>
+               <!-- PDF PAGE 93 -->
+               <hi>Since Mankind</hi> (ſaith he) <hi>would not take ſufficient warning, either by that Commet in the Year</hi> 1652, <hi>or in</hi> 1664. <hi>behold providence manifeſts another, beginning in the firſt ſign of the Zodiack, moving directly according to the ſucceſſion of the Signs, ſometimes ſwifter, ſometimes ſlower; as if now the great God of Nature were angry, and intended ſuddenly to proceed to judgement againſt thoſe People and Nations who have ſo ſlighted and contemned his former admo<g ref="char:EOLhyphen"/>nitons. Let</hi> Europe <hi>be aſſured, the Parter<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s now ſignified, will be heavy, and of long continuance: The actions tending thereunto, or the firſt cauſes of them ſuddain, violent, unexpected, and ſur<g ref="char:EOLhyphen"/>prizing: It manifeſts the beginning of more Wars, and their ſorrowful Effects,</hi> Viz. <hi>The flight of many from their proper Habitations, Poverty, S<gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>den A<gap reason="illegible: bleedthrough" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s, Aſtoniſhments, Piracies, SCARCITY OF CORN, Sl<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ughters of Mankind, D<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vaſtations, and Burning of Cities, and Depo<g ref="char:EOLhyphen"/>pulations of Countries, and all this when and where leaſt ſuſpected.</hi>
+            </p>
+            <p>Nor does this ſeem to be a Conjecture at Rovers, ſuch as is made by the Qunch Aſtrologers, that either gueſs ſo much at random, that if either they ſucceed, 'tis by accident: or Pro<g ref="char:EOLhyphen"/>pheſie (as they call it) of Contradictions at the ſame time; one of which muſt inevitably come to paſs. But Mr. <hi>Lilly</hi> given us a rational conjecture of Events, and a very good reaſon for that Conjecture, which he continues in words to this effect.</p>
+            <p>
+               <hi>All theſe are aſſured Arguments, and fore-runners of Wars, ſlaughter of Souldiers and Mankind, Devaſtation of Towns, Vil<g ref="char:EOLhyphen"/>lages; Depopulation of Countries, Terretories, Cities, Provinces, yea, upon a ſuddain, when leaſt expected, or ſuſpected; for both</hi> Aries <hi>and</hi> Leo <hi>are violent and furious Signs: A Comet having apearance in</hi> Aries, <hi>as the Ancients have delivered;</hi> Significat arm<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ru<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtrepit<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, ſanguinis prof<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſionem, &amp; imperatur is alicu<g ref="char:EOLhyphen"/>jus interitum. i. e. <hi>ſignifies <gap reason="illegible: bleedthrough" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iſe <gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f VVars, profuſion of Blood and the death of ſome eminent, Perſon, or Commander.</hi> Viz. <hi>Before the effects of the Comet be determined.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:32845:5"/>
+               <!-- PDF PAGE 93 -->Thus far Mr. <hi>Lilly.</hi> And if we conſider this as a Propheſie in general, made at leaſt a twelve-month before there was any thoughts of a War in the European World: or if we pry ſtrictly into the particulars, and again repeat Wars, ſlaughter of Souldiers, ſcarcity of Corn, &amp;c. Could any man equally mani<g ref="char:EOLhyphen"/>feſt himſelf to be (as it were) the Secretary and Regiſter of Fate, to whom thoſe hidden powers ſeem to have communicated all their ſecrets? But to come yet cloſer, ſee how he proceeds.</p>
+            <p>Some of theſe judgements (continues he) may take place in, or near the Years 1674, 1675, and 1676, or about thoſe Years eſpecially: ſome may, and will take place ſooner, <hi>mutalis, mutandis.</hi> For Na<g ref="char:EOLhyphen"/>ture in theſe Actions proceeds orderly; and it muſt be a ſeries of time to manifeſt her ſignifications. Obſerve<g ref="char:punc">▪</g> The Comets continu<g ref="char:EOLhyphen"/>ed many days, and paſſed through <hi>Aries</hi> and <hi>Virgo;</hi> then, and in that Year, when matter and things are mature, which c<gap reason="illegible: bleedthrough" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> be affected <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a ſuddain. But as in <hi>Europe</hi> there are few Kings, theſe like Sentences muſt be underſtood, as we ſaid before, of Governours of Towns, Cities, Provinces, Dukes, Earls, Marqueſſes, Cardinals, Biſhops, Abbots, Deputy Lieutenants, and all other perſons concerned in any eminent Government, Power, or Authority.</p>
+            <p>As for the particular Kingdoms, Provinces, Countries, or Cities, which are menaced from this Comet, they are principally to be ſignified to belong to <hi>Aries, Gemmini, Cancer, Leo:</hi> 
+               <g ref="char:V">Ʋ</g>nto <hi>Aries</hi> are generally aſſigned <hi>Germany, Polonia, Burgundy: (Viz.)</hi> all the ſeventeen Provinces, <hi>Denmark, England, Sileſia</hi> the higher, with many other Countries, though as yet, not aſſigned to that Figure, yet ſubject to it.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>nto the Sign <hi>Gemmini</hi>belong <hi>Holland</hi> and <hi>Zealand, Genova, Amſterdam, Venice, Conſtantinople,</hi> with many other Kingdoms and Provinces, in ſome of theſe Countries VVars is already apparent: what is remaining, the Years ſubſequent will manifeſt in due time. But ſith we wrote ſo Copiouſly of the former Comets in 1652.
+<pb n="8" facs="tcp:32845:6"/>
+               <!-- PDF PAGE 94 -->
+and 1664. VVe ceaſe to write any more of this laſt Comet, which ſeems to be but another Meſſenger, or Prodromus of the former Co<g ref="char:EOLhyphen"/>mets. Beſides we are partly confined ei<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er into ſilence, or the Cenſure of others.</p>
+            <p>Thus we may obſerve how Judici<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſly Mr. <hi>Lilly</hi> Prognoſticates, and it will certainly become all the people of whatſoever Na<g ref="char:EOLhyphen"/>tion where a Comet appears to uſe their utmoſt endeavours, either by repentance to divert, or by ſubmiſſion to mittigate that fury which is threatned them by thoſe Beacons of Divine Vengeance, and to remember that</p>
+            <epigraph>
+               <q>
+                  <l>Comets, the blazing Beacons of the sky,</l>
+                  <l>Forewarn the ſinful world of miſery.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32845:6"/>
+            <!-- PDF PAGE 94 -->
+         </div>
+      </body>
+   </text>
+</TEI>
